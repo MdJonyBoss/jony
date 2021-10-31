@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Ephesis', cursive;
+font-family: 'Rubik Beastly', cursive;
+
+}
+
+.top{
+    text-align: center;
+    color: aliceblue;
+
+}
+.nav{
+    color: rgb(255, 0, 0);
+    
+}
+p{
+    margin-bottom: 0;
+}
+
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    color: rgb(250, 3, 15);
+    text-align: center;
+  }
+  .bgimage h5 {
+      margin-top: 4rem;
+    color:white;
+    text-shadow:2px 2px #333;
+    font-size: 30px;
+  }
+  .bgimage p{
+      font-size: 20px;
+      text-shadow:2px 2px #333;
+  }
+  .cantanar{
+      display: flex;
+      float: left;
+margin-left: 04rem;
+
+  }
+  .cantanar img{
+      border-radius: 60%;
+      width: 40%;
+      text-align: center;
+      margin-left: 4.5rem;
+  }
+  .row{
+text-align: center;
+
+  }
+  .card{
+    background-color: aqua;
+  }
+  .carousel-item{
+    
+  }
+  .oo img{
+width: 100%;
+  }
+.img-fluid{
+  width: 40%;
+}
+.hero1{
+  margin-left: 40rem;
+  margin-top: -24.5rem;
+text-align: center;
+background-color: #68aee2;
+font-size: 27.1px;
+color: blue;
+}
+.contananr{
+
+}
+.nav-item{
+ padding-left: 30px;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: bisque;
+}
+.mo{
+  text-align: center;
+  color: chartreuse;
+}
+.contananr3{
+  background-color: #68aee2;
+  -moz-background-clip: border-box;
+}
+.ll{
+  text-align: center;
+}
+.hero4{
+  text-align: center;
+  margin-left: 07.9rem;
+  
+}
+.btn-outline-secondary{
+  background-color: aqua;
+}
+.body{
+  outline: 100px solid rgba(255, 0, 0, 0.5) !important;
+  outline-offset: -100px;
+  overflow: hidden;
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+h6{
+  text-align: center;
+  margin-left: 27rem;
+  font-size: 29px;
+ 
+}
+.ht{
+  margin-left: 250px;
+}
+.ht h5{
+  font-size: 25px;
+}
+.cop{
+margin-right:8rem;
+}
+
+
+.servies{
+  box-shadow: 0 0 5px 5px rgb(243, 243, 234);
+}
+
+
+.cantanar{
+  box-shadow: 0 0 5px 5px rgb(253, 243, 254);
+}
+
+.contananr3{
+  box-shadow: 0 0 5px 5px rgb(251, 237, 253);
+}
+
+
+
+.btnbtn-primary{
+  background-color: rgb(255, 0, 149);
+}
+
+.doo h1{
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+  margin-top: 4rem;
+  
+ 
+}
+
+.mn{
+  text-align: center;
+  color: blue;
+}
+
+.hi{
+  background-color: rgb(146, 146, 218);
+  width: 100%;
+}
+.my-5{
+  background-color: rgb(146, 146, 218);
+}
+
+.rah{
+  display: flex;
+  justify-content: center;
+  background-color: #68aee2;
+  font-size: 17px;
+  margin-top: -35px;
+}
+
